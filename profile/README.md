@@ -8,6 +8,6 @@ alt="Open Explainers logo" width="110">
 
 ## Explainers
 
-| Explainer | Purpose |
-| --- | --- |
-| [statistics-correlation](https://github.com/open-explainers/statistics-correlation) | Interactive correlation exploration |
+| App | Repo | Purpose |
+| --- | --- | --------- |
+| [Try it!](https://open-explainers.github.io/statistics-correlation/) | [statistics-correlation](https://github.com/open-explainers/statistics-correlation) | Interactive correlation exploration |
